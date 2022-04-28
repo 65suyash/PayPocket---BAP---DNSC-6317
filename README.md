@@ -1,8 +1,17 @@
-# Paypocket Data Analysis using Visualisation and Forecasting
-### About: 
-Paypocket payment analysis and estimated predictions using tools such as Python, PostgreSQL, PowerBI, Tableau, MS Excel and Jira.
+# Data Analytics through Visualization @ PayPocket
+### Project background: 
+You are working for a startup (PayPocket) who needs to configure a name verification service. PayPocket offers a service to retailers to add to their customers as a value add. The service provides customers of the retailer active price matching on all products purchased from the retailer. The retailer offers this service to the customer at checkout. If the customer opts-in to the service, PayPocket scans for a lower price for 30 days. If PayPocket finds a lower price, PayPocket initiates a payout to the customer for the difference. When the customer purchases the item online, the retailer collects your email, first name, middle name (optional), and last name plus certain characteristics of the purchase (discussed in more detail below) and shares the information with PayPocket. The payment method is not shared with PayPocket due to data privacy restrictions. To receive a payout from PayPocket, the consumer logs in to the PayPocket site to claim the payout. When the consumer logs in and initiates the payout, the customer sets-up a payout account (checking, PayPal, Zelle) to receive their rebate. 
 
 ![image](https://user-images.githubusercontent.com/89547823/165813130-ee026bec-4ec0-4261-8f58-7b1af9a920c1.png)
+
+### Project Overview and Business Problem:
+PayPocket needs data analytics to understand the flow and characteristics of the payouts. The team must use standard, existing libraries to visualize items like the velocity and volume of payments; where geographically payments are being made; what types of accounts are receiving payouts; and any other visualizations/analytics you feel would be value added. Below are sketches of visualizations that came out of an ideation session held at PayPocket prior to you coming on board. You are not bound by these ideas but are rather provided to give you a better idea of the background.
+
+### Preferred Methodology: 
+CRISP-DM / AGILE
+
+### Tech Stack: 
+Python, PostgreSQL, PowerBI, Tableau, MS Excel and Jira
 
 ### Overview:
 **Phase 1:** 
@@ -11,7 +20,7 @@ Paypocket payment analysis and estimated predictions using tools such as Python,
 
 **Phase 2:** 
 
-* 3.) Creating individual user story based visualisations and a compiled dashboard using PowerBI based on end user type (Payee and Payer)
+* 3.) Creating vizualisations based on individual user stories and a compiled dashboard using PowerBI based on end user type (Payee and Payer)
 * 4.) Creating time series forecasting and predictions using Python
 
 **Phase 3:**
