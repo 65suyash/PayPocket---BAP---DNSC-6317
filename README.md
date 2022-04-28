@@ -47,13 +47,17 @@ Python, PostgreSQL, PowerBI, Tableau, MS Excel and Jira
 
 ### Source to target mapping
 
+Creating a datamart in the data preparation stage.
+[image3](https://github.com/65suyash/PayPocket_Business-Analytics-Practicum_DNSC-6317/blob/main/images/source%20to%20target.PNG)
 
 ---
-### Phase 2: Writing user stories and creating visualisations based on end user type (Payee and Payer)
-![image](https://user-images.githubusercontent.com/89547823/163530997-00a5b0f9-13b5-4d28-a44f-547a1f67fc28.png)
+### Phase 2: Writing user stories and creating visualisations
 
----
+#### Analysis of user story: As a CFO, I need to check the status of the payments to visualize how various payment method are performing. 
+
 ![image1](https://github.com/65suyash/PayPocket_Business-Analytics-Practicum_DNSC-6317/blob/main/images/Claim%20amount%20status.PNG)
+
+Drilling down:
 
 ![image2](https://github.com/65suyash/PayPocket_Business-Analytics-Practicum_DNSC-6317/blob/main/images/Claim%20amount%20status%20drill%20down.PNG)
 
@@ -62,16 +66,19 @@ Python, PostgreSQL, PowerBI, Tableau, MS Excel and Jira
 
 ![image](https://user-images.githubusercontent.com/89547823/165814460-440dcc48-6271-405b-811f-e075629993bd.png)
 
-**Final Recommendation: Tableau**
+**Final Recommendation to the team: ** Tableau
 
 ---
-### Phase 3: Compiling and overlayiing time series forecasting and predictions using Python
+### Phase 3: Compiling and overlaying time series forecasting and predictions using Python
+
+Compiling all the user stories in a single dashboard for both payer and payee.
 
 ![Paypocket Dashboard_Temp-1](https://user-images.githubusercontent.com/89547823/165676092-46a6056d-98a3-4796-8521-7f07431532ef.png)
 
 ---
 ![Paypocket Dashboard_Temp-2](https://user-images.githubusercontent.com/89547823/165676118-493299e5-5a6c-40da-9958-c3db0e1f9b66.png)
 
+#### Time series forecasting and prediction results
 
 #### 1. Original Series
 <img width="608" alt="Screen Shot 2022-04-27 at 8 48 50 PM" src="https://user-images.githubusercontent.com/89392789/165654444-504b9ecc-a8c0-4eb2-a745-4b6b6459b4b1.png">
@@ -123,4 +130,6 @@ Accuracy: 67.35%
  *On our dataset, Ordinal transform gives better results than One hot encoder. 
 ---
 
-# 
+# Challenges 
+
+[image4](https://github.com/65suyash/PayPocket_Business-Analytics-Practicum_DNSC-6317/blob/main/images/challenges.PNG)
