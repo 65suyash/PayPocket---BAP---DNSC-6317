@@ -33,9 +33,7 @@ Python, PostgreSQL, PowerBI, Tableau, MS Excel and Jira
 ### Phase 1: Understanding business problem and creating synthetic data
 ![image](https://user-images.githubusercontent.com/89547823/165675876-9cce774a-883d-4813-baba-06d5dddcf453.png)
 
-
 ### Project Management using JIRA
-
 * Transparency
   * Sprints, status roadmap, backlog
 * Collaboration
@@ -48,8 +46,7 @@ Python, PostgreSQL, PowerBI, Tableau, MS Excel and Jira
 ### Source to target mapping
 
 Creating a datamart in the data preparation stage.
-
-[image3](https://github.com/65suyash/PayPocket_Business-Analytics-Practicum_DNSC-6317/blob/main/images/source%20to%20target.PNG)
+![image3](https://github.com/65suyash/PayPocket_Business-Analytics-Practicum_DNSC-6317/blob/main/images/source%20to%20target.PNG)
 
 ---
 ### Phase 2: Writing user stories and creating visualisations
@@ -67,7 +64,7 @@ Drilling down:
 
 ![image](https://user-images.githubusercontent.com/89547823/165814460-440dcc48-6271-405b-811f-e075629993bd.png)
 
-**Final Recommendation to the team: ** Tableau
+**Final Recommendation to the team: Tableau**
 
 ---
 ### Phase 3: Compiling and overlaying time series forecasting and predictions using Python
@@ -130,7 +127,6 @@ Accuracy: 67.35%
  #### Results: 
  *On our dataset, Ordinal transform gives better results than One hot encoder. 
 ---
-
 # Challenges 
 
-[image4](https://github.com/65suyash/PayPocket_Business-Analytics-Practicum_DNSC-6317/blob/main/images/challenges.PNG)
+![image4](https://github.com/65suyash/PayPocket_Business-Analytics-Practicum_DNSC-6317/blob/main/images/challenges.PNG)
