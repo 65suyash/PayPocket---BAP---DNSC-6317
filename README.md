@@ -27,7 +27,7 @@ Python, PostgreSQL, PowerBI, Tableau, MS Excel and Jira
 
 **Phase 3:**
 * 8.) Compiling all the user stories in a single dashboard using Tableau
-* 9.) Overlayed the visualizations with time series forecasting and predictions using Python
+* 9.) Overlaying the visualizations with time series forecasting and predictions using Python
 
 ---
 ### Phase 1: Understanding business problem and creating synthetic data
@@ -48,6 +48,7 @@ Python, PostgreSQL, PowerBI, Tableau, MS Excel and Jira
 ### Source to target mapping
 
 Creating a datamart in the data preparation stage.
+
 [image3](https://github.com/65suyash/PayPocket_Business-Analytics-Practicum_DNSC-6317/blob/main/images/source%20to%20target.PNG)
 
 ---
