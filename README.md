@@ -53,9 +53,9 @@ Python, PostgreSQL, PowerBI, Tableau, MS Excel and Jira
 ![image](https://user-images.githubusercontent.com/89547823/163530997-00a5b0f9-13b5-4d28-a44f-547a1f67fc28.png)
 
 ---
-https://github.com/65suyash/PayPocket_Business-Analytics-Practicum_DNSC-6317/blob/main/images/Claim%20amount%20status.PNG
+![image1](https://github.com/65suyash/PayPocket_Business-Analytics-Practicum_DNSC-6317/blob/main/images/Claim%20amount%20status.PNG)
 
-https://github.com/65suyash/PayPocket_Business-Analytics-Practicum_DNSC-6317/blob/main/images/Claim%20amount%20status%20drill%20down.PNG
+![image2](https://github.com/65suyash/PayPocket_Business-Analytics-Practicum_DNSC-6317/blob/main/images/Claim%20amount%20status%20drill%20down.PNG)
 
 
 ### Tableau vs PowerBI scorecard
