@@ -124,9 +124,8 @@ Accuracy: 64.63%
 **ii.) Ordinal encoding :**
 Accuracy: 67.35%
  
- #### Results: 
- *On our dataset, Ordinal transform gives better results than One hot encoder. 
+ ### Inference: 
+ ####Ordinal transform gives better results than One hot encoder. 
 ---
-# Challenges 
-
+# Challenges faced by the team
 ![image4](https://github.com/65suyash/PayPocket_Business-Analytics-Practicum_DNSC-6317/blob/main/images/challenges.PNG)
